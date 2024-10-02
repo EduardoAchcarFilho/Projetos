@@ -1,0 +1,17 @@
+#Bibliotecas usadas
+import pyodbc
+import streamlit as st
+import json
+from streamlit_calendar import calendar
+from datetime import datetime
+
+
+# Configurações de conexão
+dados_conexao = (
+    "Driver={SQL Server};"
+    "Server=SERVIDORC;"
+    "Database=NOMEBANCO;"
+    "Trusted_Connection=yes;"
+)  
+conexao = pyodbc.connect(dados_conexao)
+cursor = conexao.cursor()
