@@ -1,6 +1,6 @@
 Cadastro de Tarefas/Erros, Ajustes e Preferências (TaskEdx)
 
-App criado para melhora de desempenho e ter uma base de dados sobre a prestação de suporte técnico que eu realizava.
+App criado para melhorar meu desempenho e ter uma base de dados sólida sobre a prestação de suporte técnico que eu realizava.
 
 ![Capturar](https://github.com/user-attachments/assets/fdf29f9f-d976-4136-884c-ba5576b2b761)
 
